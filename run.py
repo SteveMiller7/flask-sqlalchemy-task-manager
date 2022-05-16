@@ -1,3 +1,4 @@
+""" runs the app """
 import os
 from taskmanager import app
 
